@@ -16,5 +16,7 @@ class MobileController extends Controller
 
     }
 
-    // public
+    public function addAbsen(Request $request) {
+        
+    }
 }

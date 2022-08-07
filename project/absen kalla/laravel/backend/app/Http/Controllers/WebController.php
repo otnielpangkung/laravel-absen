@@ -16,4 +16,6 @@ class WebController extends Controller
 
         $query = Employee::select('*');
     }
+
+    
 }
